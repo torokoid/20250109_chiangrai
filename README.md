@@ -136,7 +136,7 @@ p.note { display: none; }
 <h2><span class="yellow">チェンライ最大のショッピングモール「CENTRAL」で、観光イベントを見学</span></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1736468994080!6m8!1m7!1sFzlW1UW5xOaYSTJDDkNtcA!2m2!1d19.88724473911787!2d99.8354830258127!3f214.5142609949928!4f16.027400297354177!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
 
-<h2><span class="yellow">木槌の音が鳴り響くタイマッサージ</span></h2>
+<h2><span class="yellow">木槌の音が鳴り響くタイ式マッサージは初めて見ました</span></h2>
 <a href="20250109_001.JPG" target="_blank"><img src="20250109_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250109_002.JPG" target="_blank"><img src="20250109_002.JPG" alt="サンプル画像" width="900" /></a>
 
