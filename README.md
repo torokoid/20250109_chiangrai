@@ -166,7 +166,7 @@ p.note { display: none; }
 <a href="20250109_012.JPG" target="_blank"><img src="20250109_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250109_013.JPG" target="_blank"><img src="20250109_013.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">1月〜12月までの主だった地域行事を紹介<br>今おいでの皆様、他の季節も楽しですよ！とPR</span></h2>
+<h2><span class="yellow">1月〜12月までの主だった地域行事を紹介<br>今おいでの皆様、他の季節も楽しいですのでおいで下さい！とPR</span></h2>
 <a href="20250109_014.JPG" target="_blank"><img src="20250109_014.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">お土産物売り場も盛況でした</span></h2>
